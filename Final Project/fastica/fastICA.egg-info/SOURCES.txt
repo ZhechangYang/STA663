@@ -1,0 +1,6 @@
+fastica.py
+setup.py
+fastICA.egg-info/PKG-INFO
+fastICA.egg-info/SOURCES.txt
+fastICA.egg-info/dependency_links.txt
+fastICA.egg-info/top_level.txt
